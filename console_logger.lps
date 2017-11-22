@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="10"/>
+    <BuildModes Active="Default"/>
+    <Units Count="2">
+      <Unit0>
+        <Filename Value="console_logger.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <TopLine Value="16"/>
+        <CursorPos X="55" Y="29"/>
+        <UsageCount Value="27"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="tlogger.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="65"/>
+        <CursorPos X="31" Y="86"/>
+        <UsageCount Value="27"/>
+        <Loaded Value="True"/>
+      </Unit1>
+    </Units>
+    <JumpHistory Count="12" HistoryIndex="11">
+      <Position1>
+        <Filename Value="tlogger.pas"/>
+        <Caret Line="140" Column="5" TopLine="89"/>
+      </Position1>
+      <Position2>
+        <Filename Value="tlogger.pas"/>
+        <Caret Line="32" Column="45" TopLine="13"/>
+      </Position2>
+      <Position3>
+        <Filename Value="tlogger.pas"/>
+        <Caret Line="48" Column="18" TopLine="18"/>
+      </Position3>
+      <Position4>
+        <Filename Value="console_logger.lpr"/>
+        <Caret Line="7" Column="10"/>
+      </Position4>
+      <Position5>
+        <Filename Value="tlogger.pas"/>
+        <Caret Line="56" Column="20" TopLine="18"/>
+      </Position5>
+      <Position6>
+        <Filename Value="tlogger.pas"/>
+        <Caret Line="49" Column="5" TopLine="18"/>
+      </Position6>
+      <Position7>
+        <Filename Value="tlogger.pas"/>
+        <Caret Line="48" Column="23" TopLine="20"/>
+      </Position7>
+      <Position8>
+        <Filename Value="tlogger.pas"/>
+        <Caret Line="57" TopLine="37"/>
+      </Position8>
+      <Position9>
+        <Filename Value="tlogger.pas"/>
+        <Caret Line="58" TopLine="37"/>
+      </Position9>
+      <Position10>
+        <Filename Value="tlogger.pas"/>
+        <Caret Line="60" TopLine="37"/>
+      </Position10>
+      <Position11>
+        <Filename Value="tlogger.pas"/>
+        <Caret Line="85" Column="52" TopLine="40"/>
+      </Position11>
+      <Position12>
+        <Filename Value="tlogger.pas"/>
+        <Caret Line="62" Column="21" TopLine="44"/>
+      </Position12>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>
